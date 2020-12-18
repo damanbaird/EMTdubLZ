@@ -17,7 +17,7 @@ Printed parts:
 Two of each:
 frame-corner-v2-fl_rr.stl
 frame-corner-v2-fr_lr.stl 
-everything else should need only one print, but let me know if i forgot something.
+everything else should need only one.
 
 Pipe cuts are as follows:
 X: 3x 313mm
