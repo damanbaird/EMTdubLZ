@@ -13,8 +13,10 @@ This is one of the BEST and cheapest ways to get a metal frame and stiffen up yo
 Derived from the original EMT8: https://www.thingiverse.com/thing:2818084
 
 Printed parts:
-2-corner FL-RR
-2-corner FR-LR
+
+Two of each:
+frame-corner-v2-fl_rr.stl
+frame-corner-v2-fr_lr.stl 
 everything else should need only one print, but let me know if i forgot something.
 
 Pipe cuts are as follows:
