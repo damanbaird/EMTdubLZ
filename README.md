@@ -15,13 +15,16 @@ Derived from the original EMT8: https://www.thingiverse.com/thing:2818084
 Printed parts:
 
 Two of each:
-frame-corner-v2-fl_rr.stl
+frame-corner-v2-fl_rr.stl 
 frame-corner-v2-fr_lr.stl 
 everything else should need only one.
 
 Pipe cuts are as follows:
+
 X: 3x 313mm, 1x 398.75mm pipe cutting for optional double brace.
+
 Y: 2x 364mm
+
 Z: 4x 443mm
 
 This will be updated as seen fit, copies of this on other site will not be updated.
