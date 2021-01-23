@@ -21,7 +21,7 @@ everything else should need only one.
 
 Pipe cuts are as follows:
 
-X: 3x 313mm, 1x 398.75mm pipe cutting for optional double brace.
+X: 3x 313mm, 1x 398.75mm pipe cutting for optional double top brace.
 
 Y: 2x 364mm
 
