@@ -21,10 +21,9 @@ everything else should need only one.
 
 Pipe cuts are as follows:
 
-X: 3x 313mm, 1x 398.75mm pipe cutting for optional double top brace, no need to print: "Right_top_rework.stl" or "Left_top_rework.stl"
+X: 3x 313mm
 
 Y: 2x 364mm
 
 Z: 4x 443mm
 
-This will be updated as seen fit, copies of this on other site will not be updated.
