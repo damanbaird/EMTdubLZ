@@ -21,6 +21,14 @@ frame-corner-v2-fl_rr.stl
 frame-corner-v2-fr_lr.stl 
 everything else should need only one.
 
+8mm smooth rod cuts:
+
+2x 436 mm X axis
+
+2x 380 mm Y axis
+
+2x 380 mm Z axis
+
 EMT pipe cuts are as follows:
 
 X: 3x 313mm
