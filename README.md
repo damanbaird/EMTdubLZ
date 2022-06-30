@@ -20,7 +20,7 @@ frame-corner-v2-fl_rr.stl
 frame-corner-v2-fr_lr.stl 
 everything else should need only one.
 
-Pipe cuts are as follows:
+EMT pipe cuts are as follows:
 
 X: 3x 313mm
 
